@@ -1,0 +1,71 @@
+{
+  "name": "FABRÍCIO TRINDADE",
+  "title": "Estagiário em Cloud/Infraestrutura • Desenvolvimento Web",
+  "email": "fabriciotrindade2001@gmail.com",
+  "phone_e164": "+5551981999014",
+  "phone_display": "(51) 98199-9014",
+  "location": "Montenegro, RS",
+  "linkedin_url": "https://www.linkedin.com/in/fabricio-trindade",
+  "github_url": "https://github.com/fabriciotrinndade",
+  "website_url": "https://fabriciotrindade.com.br",
+  "summary": "Estudante de Ciência da Computação (UNINTER) com base em lógica de programação e experiência prática com APIs REST, autenticação JWT e bancos de dados. Atuação sólida em suporte e troubleshooting de redes e sistemas para clientes residenciais e corporativos. Busco estágio com trilha em cloud/infraestrutura, monitoramento e automação.",
+  "skills": [
+    {
+      "group": "Programação",
+      "items": ["JavaScript", "Node.js", "HTML", "CSS", "SQL"]
+    },
+    { "group": "Frameworks", "items": ["Next.js", "Express.js", "React"] },
+    {
+      "group": "Bancos de Dados",
+      "items": ["PostgreSQL", "MongoDB", "Prisma ORM"]
+    },
+    {
+      "group": "DevOps & Ferramentas",
+      "items": ["Git", "GitHub", "Docker", "Vercel", "Netlify"]
+    },
+    { "group": "Qualidade", "items": ["Jest", "Testes automatizados"] }
+  ],
+  "projects": [
+    {
+      "title": "Clone TabNews — Aplicação Full Stack",
+      "stack": "Next.js, PostgreSQL, Jest, Docker, Vercel",
+      "bullets": [
+        "Aplicação full stack com separação clara de camadas e organização de código",
+        "SSR/SSG com foco em performance e SEO, além de migrations no PostgreSQL",
+        "Testes automatizados para rotas e regras críticas"
+      ],
+      "links": [
+        {
+          "label": "Repositório",
+          "url": "https://github.com/fabriciotrinndade/tabnews-curso.dev"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Técnico de Suporte a Sistemas",
+      "company": "Vero Internet",
+      "date": "Jun 2021 — Atual",
+      "bullets": [
+        "Assumi, em diversas ocasiões, a coordenação operacional das equipes, organizando demandas e priorizando atendimentos",
+        "Troubleshooting ponta a ponta de conectividade e serviços para clientes residenciais e B2B",
+        "Configuração de roteadores/modems e comunicação técnica com diferentes públicos"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Bacharelado em Ciência da Computação",
+      "subtitle": "Centro Universitário Internacional (UNINTER)",
+      "date": "Em andamento — previsão 12/2029"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Inglês",
+      "level": "Intermediário (B1)",
+      "note": "Leitura técnica e conversação"
+    }
+  ]
+}
