@@ -1,0 +1,6 @@
+# dependências
+node_modules/
+
+# arquivos gerados
+dist/
+*.pdf
