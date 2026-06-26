@@ -1,0 +1,195 @@
+{
+  "name": "SAM HELSON NUNES DINIZ",
+  "title": "Engenheiro de computação · Desenvolvedor de software · Analista de Dados",
+  "email": "sam04hel.dev@gmail.com",
+  "phone_e164": "+5598984508897",
+  "phone_display": "+55 98 984508897",
+  "location": "São Luís, Maranhão, Brasil",
+  "linkedin_url": "https://www.linkedin.com/in/samhelson-java/",
+  "github_url": "https://github.com/SamInst",
+  "website_url": "",
+  "photo": "",
+
+  "labels": {
+    "lang": "pt-BR",
+    "summary": "Resumo",
+    "experience": "Experiência",
+    "education": "Formação",
+    "languages": "Idiomas",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "technologies": "Tecnologias"
+  },
+
+  "summary": "26 anos, Engenheiro de Computação, Desenvolvedor de software e Analista de dados especializado em Back-End Java, focado na construção de APIs REST escaláveis e arquiteturas de microserviços. Atuo profissionalmente há 3 anos, desenvolvendo e mantendo sistemas de gestão pública, privada e autônoma que produzem, organizam e consomem grandes volumes de dados. Minhas principais tecnologias incluem Java, Spring Boot, Git/Gitlab, Oracle, PostgreSQL, MongoDB, RabbitMQ, WebSocket, Docker e SonarQube.\n\n Tenho conhecimento intermediário em Excel, noções de construção de dashboards, Power BI, SQL, Power Query, Design de dados, e familiaridade com ferramentas corporativas. \n\nTenho conhecimentos complementares em Scrum, Linux, Noções de redes, HTML/CSS/JS, Suporte como QA, Noções de UX/UI e inglês técnico nível B1. Disponibilidade para trabalhar presencialmente em outros estados do Brasil, com flexibilidade para viagens e mudanças, e também aberto a oportunidades remotas.",
+
+  "skills": [
+    {
+      "group": "Dados & Bancos, BI, Dashboards & Relatórios",
+      "items": ["SQL", "PostgreSQL", "MySQL", "Modelagem de dados", "Consultas e queries", "Manipulação e organização de dados", "Validação de consistência de dados", "Construção de dashboards", "Power BI", "JasperReports", "Geração de relatórios em PDF", "Indicadores e métricas operacionais", "Visualização de dados"]
+    },
+    {
+      "group": "Planilhas & Ferramentas Corporativas",
+      "items": ["Excel", "Automação de planilhas", "Padronização e documentação de processos", "Ferramentas digitais e sistemas corporativos"]
+    },
+    {
+      "group": "Qualidade de Dados",
+      "items": ["Identificação de inconsistências", "Validação de regras de negócio", "Trilhas de auditoria e rastreabilidade", "QA / Criação e execução de cenários de teste", "SonarQube"]
+    },
+    {
+      "group": "Desenvolvimento",
+      "items": ["Java", "Spring Boot", "APIs REST", "HTML/CSS/JS", "Integração de sistemas", "RabbitMQ", "WebSocket"]
+    },
+    {
+      "group": "Design & Apresentações",
+      "items": ["Figma", "Noções de UX/UI", "Elaboração de apresentações e materiais", "Prototipação e conversão de layouts"]
+    },
+    {
+      "group": "DevOps & Versionamento",
+      "items": ["Git", "GitHub", "GitLab", "Docker", "Oracle Cloud", "Linux"]
+    },
+    {
+      "group": "Métodos & Complementares",
+      "items": ["Scrum", "Documentação técnica", "Inglês técnico (B1)", "Organização de demandas operacionais"]
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Desenvolvedor de software Full-Stack · Analista de Dados",
+      "company": "Autônomo (Remoto / São Luís, Maranhão, Brasil)",
+      "date": "04/2023 — Presente",
+      "bullets": [
+        "Desenvolvi um SaaS completo de gestão hoteleira utilizando as tecnologias Java, Spring Boot, PostgresSQL, HTML, CSS e JS, cobrindo cadastros, reservas, hospedagens, check-in/check-out,  Modelei dashboards e indicadores operacionais de faturamento, controle de estoque e módulo financeiro com relatórios por período.",
+        "Implementei controle de estoque com movimentações de entrada e saída vinculadas aos lançamentos de consumo, garantindo integridade e consistência das informações.",
+        "Desenvolvi agente de IA integrado a APIs de LLM que coleta, organiza e persiste dados de atendimento em base de dados para posterior análise e rastreabilidade.",
+        "Desenhei interfaces e dashboards no Figma e converti os protótipos em telas funcionais com HTML/CSS/JS, cuidando da apresentação visual dos dados.",
+        "Atuei em QA criando e executando cenários de teste para validação de regras de negócio e identificação de inconsistências de dados entre módulos.",
+        "Realizei deploy em VM na Oracle Cloud Infrastructure, gerenciando escopo, prazos e documentação de processos de forma independente."
+      ]
+    },
+    {
+      "role": "Desenvolvedor Java",
+      "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão (São Luís, Maranhão, Brasil)",
+      "date": "09/2023 — 01/2026 (2 anos e 5 meses)",
+      "bullets": [
+        "Projetei e desenvolvi uma API assíncrona para orquestração de entradas e saídas de internos de todas as unidades prisionais do estado do Maranhão, integrando dispositivos de biometria facial Intelbras via REST com validação em tempo real, para monitoramento em atividades operacionais para garantia de redução de pena.",
+        "Utilizei RabbitMQ como broker de mensagens, suportando alto volume de eventos simultâneos e atualizações em tempo real para dashboards operacionais e sistemas de monitoramento via WebSocket.",
+        "Migrei sistemas legados monolíticos para arquitetura de microserviços APIs REST com Spring Boot: RH (triagem, registro e delegação de acessos de servidores públicos), Almoxarifado, Help-Desk, Sistemas de odontologia, Atendimento Clínico, Atendimento Educacional, Chamador de senhas, automatizando diversos processos manuais críticos do sistema penitenciário.",
+        "Vivência em manutenção, aplicando melhorias contínuas em ambiente de produção.",
+        "Persisti logs detalhados de acesso, movimentação e auditoria, garantindo rastreabilidade completa dos eventos.",
+        "Automatizei geração de relatórios PDF com JasperReports, eliminando processos manuais recorrentes da operação.",
+        "Elevei segurança, manutenibilidade e padronização do código com análise estática contínua via SonarQube e cobertura sempre acima de 98% em testes unitários com JUnit 5.",
+        "Atuei como QA em demandas específicas, criando e executando cenários de teste para validação de regras de negócio e consistência de dados entre microserviços, otimizando tempo para alinhar com o prazo de entrega final dos projetos.",
+        "Padronizei documentação de APIs com Swagger/OpenAPI em alinhamento com os times de front-end e QA.",
+        "Utilizei Git (GitLab), Docker e CI/CD pipelines em ambiente ágil com Scrum."
+      ]
+    },
+    {
+      "role": "Estagiário de Desenvolvimento de Sistemas",
+      "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão (São Luís, Maranhão, Brasil)",
+      "date": "03/2023 — 09/2023 (7 meses)",
+      "bullets": [
+        "Realizei manutenções e otimizações de código, identificando e corrigindo inconsistências em sistemas e dados existentes.",
+        "Executei e criei testes de qualidade para validação de entregas, com cobertura acima de 90%, desenvolvendo prática em validação e consistência de dados."
+      ]
+    },
+    {
+      "role": "Técnico de Suporte em TI e Infraestrutura",
+      "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão (São Luís, Maranhão, Brasil)",
+      "date": "03/2022 — 07/2023 (1 ano e 5 meses)",
+      "bullets": [
+        "Desenvolvi automações em planilhas (Excel) para registro e controle de chamados, padronizando dados e reduzindo o tempo em tarefas operacionais recorrentes.",
+        "Priorizei e resolvi chamados de incidentes com atendimento presencial, telefônico e remoto, mantendo organização e documentação dos registros.",
+        "Realizei suporte de hardware/software e administração de ferramentas internas, garantindo o desempenho dos recursos de TI."
+      ]
+    },
+    {
+      "role": "Estagiário de Suporte e Administração em TI",
+      "company": "Instituto de Psiquiatria Ruy Palhano (São Luís, Maranhão, Brasil)",
+      "date": "10/2021 — 03/2022 (6 meses)",
+      "bullets": [
+        "Apoiei rotinas administrativas e de suporte de TI, organizando registros e desenvolvendo habilidades de atendimento e resolução de problemas."
+      ]
+    },
+    {
+      "role": "Gerente Operacional | Hotelaria",
+      "company": "Isto E Pousada (Viana, Maranhão, Brasil)",
+      "date": "12/2017 — 01/2019 (1 ano e 2 meses)",
+      "bullets": [
+        "Gerenciei operações, reservas, estoque, financeiro e precificação, acompanhando indicadores e desenvolvendo visão comercial e de negócio."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "title": "Bacharelado em Engenharia da Computação",
+      "subtitle": "Universidade CEUMA (São Luís, MA, Brasil)",
+      "date": "Concluído — 12/2023"
+    }
+  ],
+
+  "languages": [
+    {
+      "name": "Inglês",
+      "level": "Intermediário (B1)",
+      "note": "Leitura técnica e conversação"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Dashboards de Monitoramento Operacional em Tempo Real",
+      "stack": "Java, Spring Boot, PostgreSQL, RabbitMQ, WebSocket",
+      "bullets": [
+        "Desenvolvi painéis de monitoramento em tempo real para acompanhamento de entradas e saídas de internos em todas as unidades prisionais do estado",
+        "Estruturei o fluxo de dados com RabbitMQ como broker de mensagens, suportando alto volume de eventos simultâneos com alta disponibilidade",
+        "Transmiti as atualizações para os dashboards via WebSocket, mantendo as informações sempre sincronizadas",
+        "Persisti e organizei logs detalhados de acesso, movimentação e auditoria em PostgreSQL, garantindo rastreabilidade e qualidade dos dados"
+      ],
+      "links": []
+    },
+    {
+      "title": "Relatórios e Indicadores Automatizados em PDF",
+      "stack": "Java, JasperReports, Jaspersoft Studio, PostgreSQL",
+      "bullets": [
+        "Automatizei a geração de relatórios operacionais e de frequência a partir de templates parametrizáveis integrados às bases de dados",
+        "Eliminei processos manuais de extração e consolidação de dados, padronizando a entrega de relatórios recorrentes",
+        "Estruturei consultas SQL para alimentar os relatórios com indicadores e métricas consistentes"
+      ],
+      "links": []
+    },
+    {
+      "title": "SaaS de Gestão Hoteleira com Relatórios e Indicadores",
+      "stack": "Java, Spring Boot, PostgreSQL, HTML/CSS/JS, Figma, Excel",
+      "bullets": [
+        "Modelei a base de dados completa (reservas, hospedagens, faturamento, estoque e financeiro) com consultas SQL e relacionamentos consistentes",
+        "Construí relatórios de receita, ocupação e consumo por período, apoiando a tomada de decisão com dados organizados",
+        "Controlei estoque com movimentações vinculadas aos lançamentos de consumo, garantindo integridade das informações",
+        "Desenhei dashboards e interfaces no Figma e os converti em telas funcionais para apresentação visual dos dados"
+      ],
+      "links": []
+    },
+    {
+      "title": "Automação de Planilhas para Controle de Chamados",
+      "stack": "Excel, Automação de planilhas",
+      "bullets": [
+        "Desenvolvi automações em planilhas para registro, categorização e controle de chamados de TI",
+        "Padronizei a organização dos dados e reduzi o tempo em tarefas operacionais recorrentes",
+        "Gerei consolidações e acompanhamento de indicadores de atendimento e produtividade da equipe"
+      ],
+      "links": []
+    },
+    {
+      "title": "Agente de IA com Coleta e Organização de Dados",
+      "stack": "Java, Spring Boot, IA (LLM), WhatsApp API, PostgreSQL",
+      "bullets": [
+        "Desenvolvi agente de IA que coleta informações de atendimento e as organiza e persiste em base de dados estruturada",
+        "Integrei o agente com APIs de LLM para processamento de linguagem natural e geração de respostas contextuais",
+        "Mantive histórico de conversas e dados coletados em PostgreSQL para rastreabilidade e posterior análise"
+      ],
+      "links": []
+    }
+  ]
+}

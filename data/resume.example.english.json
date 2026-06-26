@@ -1,0 +1,246 @@
+{
+  "name": "SAM HELSON NUNES DINIZ",
+  "title": "Software Developer · Computer Engineer",
+  "email": "sam04hel.dev@gmail.com",
+  "phone_e164": "+5598984508897",
+  "phone_display": "+55 98 984508897",
+  "location": "Sao Luis, Maranhao, Brazil",
+  "linkedin_url": "https://www.linkedin.com/in/samhelson-java/",
+  "github_url": "https://github.com/SamInst",
+  "website_url": "",
+  "photo": "photo.png",
+
+  "labels": {
+    "lang": "en-US",
+    "summary": "Summary",
+    "experience": "Experience",
+    "education": "Education",
+    "languages": "Languages",
+    "skills": "Skills",
+    "projects": "Projects",
+    "technologies": "Technologies"
+  },
+
+  "summary": "26 years old, Software Developer specialized in Java Back-End, focused on building scalable REST APIs and microservices architectures. I have been working professionally for 3 years, developing and maintaining public, private, and freelance management systems. My core technologies include Java, Spring Boot, Git/GitLab, Oracle, PostgreSQL, MongoDB, RabbitMQ, WebSocket, Docker, and SonarQube.\n\nI also have complementary knowledge in Scrum, Linux, Networking basics, HTML/CSS/JS, QA support, UX/UI basics, and technical English at a B1 level. Available to work on-site in other Brazilian states, also in another country, with flexibility for travel and relocation, and also open to remote opportunities.",
+
+  "skills": [
+    {
+      "group": "Back-end & APIs",
+      "items": ["Java", "Spring Boot", "REST APIs", "Swagger/OpenAPI", "WebSocket", "RESTful", "API Gateway", "JPA", "JEE", "JDBC", "Legacy systems"]
+    },
+    {
+      "group": "Architecture",
+      "items": ["Legacy-to-microservices migration", "Separation of concerns"]
+    },
+    {
+      "group": "Data",
+      "items": ["PostgreSQL", "MongoDB", "Data modeling", "SQL", "MySQL"]
+    },
+    {
+      "group": "Messaging",
+      "items": ["RabbitMQ", "Asynchronous communication"]
+    },
+    {
+      "group": "Artificial Intelligence",
+      "items": ["AI Agents", "Machine Learning", "LLM integration"]
+    },
+    {
+      "group": "Quality",
+      "items": ["JUnit 5", "Unit testing", "SonarQube", "Clean Code", "Test scenario creation and execution", "Jacoco", "Test Coverage", "Design Patterns", "SOLID", "Clean Architecture", "DDD (Domain-Driven Design)", "TDD", "Hexagonal Architecture"]
+    },
+    {
+      "group": "Reports",
+      "items": ["JasperReports", "Jaspersoft Studio", "Templates and parameters", "PDF generation"]
+    },
+    {
+      "group": "Front-end & Design",
+      "items": ["HTML/CSS/JS", "Figma", "UX/UI basics", "Prototyping and layout conversion"]
+    },
+    {
+      "group": "DevOps & Tools",
+      "items": ["DevOps", "Git", "GitHub", "GitLab", "Docker", "CI/CD pipelines", "Oracle and Heroku Cloud Infrastructure", "VMs"]
+    },
+    {
+      "group": "Methods & Complementary",
+      "items": ["Scrum", "Linux", "Networking basics", "Freelance scope and delivery management"]
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Java Developer",
+      "company": "SEAP - State Secretariat for Penitentiary Administration of Maranhao (Sao Luis, Maranhao, Brazil)",
+      "date": "09/2023 — 01/2026 (2 years and 5 months)",
+      "bullets": [
+        "Designed and developed an asynchronous API for orchestrating inmate entries and exits across all prison facilities in the state of Maranhao, integrating Intelbras facial biometric devices via REST with real-time validation, for monitoring operational activities to ensure sentence reduction compliance.",
+        "Used RabbitMQ as a message broker, supporting high volumes of simultaneous events and real-time updates for operational dashboards and monitoring systems via WebSocket.",
+        "Migrated legacy monolithic systems to a microservices REST API architecture with Spring Boot: HR (public servant screening, registration, and access delegation), Warehouse, Help-Desk, Dental Care, Clinical Care, Educational Care, and Queue Caller systems, automating various critical manual processes within the penitentiary system.",
+        "Hands-on experience in maintenance, applying continuous improvements in production environments.",
+        "Persisted detailed access, movement, and audit logs, ensuring full traceability of events.",
+        "Automated PDF report generation with JasperReports, eliminating recurring manual operational processes.",
+        "Enhanced security, maintainability, and code standardization through continuous static analysis with SonarQube and unit test coverage with JUnit 5.",
+        "Acted as QA on specific demands, creating and executing test scenarios to validate business rules and data consistency across microservices, optimizing time to meet final project delivery deadlines.",
+        "Standardized API documentation with Swagger/OpenAPI in alignment with front-end and QA teams.",
+        "Used Git (GitLab), Docker, and CI/CD pipelines in an agile Scrum environment."
+      ]
+    },
+    {
+      "role": "Full-Stack Developer",
+      "company": "Freelance (Remote / Sao Luis, Maranhao, Brazil)",
+      "date": "04/2023 — Present",
+      "bullets": [
+        "Developed a complete hotel management SaaS using Java, Spring Boot, PostgreSQL, HTML, CSS, and JS, covering registrations, reservations, stays, check-in/check-out, billing, inventory control, and a financial module with period-based reports.",
+        "Implemented JWT authentication with permission segregation by profile (reception, housekeeping, administration, finance) and deployed on a VM on Oracle Cloud Infrastructure, containerized via Docker and configured for secure remote access.",
+        "Developed an AI agent for automated customer service via WhatsApp, integrated with LLM APIs for natural language processing and workflow management without human intervention.",
+        "Developed desktop applications in Java Swing/JavaFX with evolutionary maintenance, refactoring, and integrations with relational and non-relational databases.",
+        "Designed interfaces in Figma and converted prototypes into functional screens with HTML/CSS/JS, performing QA with test scenarios to validate business rules.",
+        "Managed scope, deadlines, and expectations independently in a 100% remote model, with a focus on clear communication and value delivery."
+      ]
+    },
+    {
+      "role": "Systems Development Intern",
+      "company": "SEAP - State Secretariat for Penitentiary Administration of Maranhao (Sao Luis, Maranhao, Brazil)",
+      "date": "03/2023 — 09/2023 (7 months)",
+      "bullets": [
+        "Supported Java development demands by identifying and fixing bugs in existing systems, contributing to code stability in a production environment.",
+        "Executed quality tests to validate deliverables, developing practical understanding of testing and QA processes.",
+        "Continuously improved technical skills in Java and back-end development within a real corporate environment."
+      ]
+    },
+    {
+      "role": "IT Support and Infrastructure Technician",
+      "company": "SEAP - State Secretariat for Penitentiary Administration of Maranhao (Sao Luis, Maranhao, Brazil)",
+      "date": "03/2022 — 07/2023 (1 year and 5 months)",
+      "bullets": [
+        "Performed hardware/software support, network troubleshooting, and administration of internal tools.",
+        "Prioritized and resolved incident tickets with in-person, phone, and remote support, consistently leading in efficient technical problem resolution.",
+        "Developed spreadsheet automations for incident logging, optimizing processes and reducing time spent on recurring operational tasks."
+      ]
+    },
+    {
+      "role": "IT Support and Administration Intern",
+      "company": "Instituto de Psiquiatria Ruy Palhano (Sao Luis, Maranhao, Brazil)",
+      "date": "10/2021 — 03/2022 (6 months)",
+      "bullets": [
+        "Supported IT support activities and administrative routines, developing customer service and technical problem-solving skills."
+      ]
+    },
+    {
+      "role": "Operations Manager | Hospitality",
+      "company": "Isto E Pousada (Viana, Maranhao, Brazil)",
+      "date": "12/2017 — 01/2019 (1 year and 2 months)",
+      "bullets": [
+        "Managed operations, reservations, inventory, finances, and pricing, developing business insight and process management skills in a small business."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "title": "Bachelor's Degree in Computer Engineering",
+      "subtitle": "CEUMA University (São Luis, MA, Brazil)",
+      "date": "Completed — 12/2023"
+    }
+  ],
+
+  "languages": [
+    {
+      "name": "English",
+      "level": "Intermediate (B1)",
+      "note": "Technical reading and conversation"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Event System with Facial and Fingerprint Biometrics",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL, RabbitMQ, WebSocket",
+      "bullets": [
+        "Designed and developed an asynchronous API for orchestrating inmate entries and exits, integrating Intelbras facial biometric devices via REST with real-time validation.",
+        "Decoupled services using RabbitMQ as a message broker, supporting high volumes of simultaneous events with high availability.",
+        "Streamed real-time updates to dashboards and monitoring systems via WebSocket.",
+        "Persisted detailed access, movement, and audit logs in PostgreSQL, ensuring full event traceability.",
+        "Applied static analysis with SonarQube, enhancing security, maintainability, and code standardization."
+      ],
+      "links": []
+    },
+    {
+      "title": "Hotel Management SaaS",
+      "stack": "Java, Spring Boot, PostgreSQL, HTML/CSS/JS, Oracle Cloud VM, QA, UI/UX, Figma",
+      "bullets": [
+        "Developed a complete web application for hotel management, covering reservations, stays, check-in/check-out, and billing end-to-end.",
+        "Implemented JWT authentication with permission segregation by profile (reception, housekeeping, administration, finance).",
+        "Built a financial module with entries, receipts, discounts, and revenue reports by period.",
+        "Managed inventory of products consumed during stays (minibar, supplies) linked to consumption entries.",
+        "Deployed and configured the application on a VM on Oracle Cloud Infrastructure, ensuring availability and secure remote access.",
+        "Designed interfaces and navigation flows in Figma and converted prototypes into functional screens with HTML/CSS/JS.",
+        "Acted as QA by creating and executing test scenarios to validate business rules and data consistency."
+      ],
+      "links": []
+    },
+    {
+      "title": "AI Agent for WhatsApp Customer Service",
+      "stack": "Java, Spring Boot, AI (LLM), WhatsApp API, PostgreSQL, Oracle Cloud VM",
+      "bullets": [
+        "Developed an AI agent for automated customer service via WhatsApp, capable of answering questions, collecting information, and conducting service workflows without human intervention.",
+        "Integrated the agent with LLM APIs for natural language processing and contextual response generation.",
+        "Persisted conversation history and collected data in PostgreSQL for traceability and service analysis.",
+        "Deployed the service on a VM on Oracle Cloud Infrastructure with environment configuration and continuous availability."
+      ],
+      "links": []
+    },
+    {
+      "title": "Warehouse Microservice",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL",
+      "bullets": [
+        "Developed for inventory control with inbound, outbound, and transfer movements, item registration, suppliers, and cost centers.",
+        "Implemented consumption reports, replenishment alerts, and an audit trail with role-based access profiles."
+      ],
+      "links": []
+    },
+    {
+      "title": "Help-Desk Microservice",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL",
+      "bullets": [
+        "Built an internal ticketing system with a complete workflow for opening, technical handling, transfer, and closure, including priorities, categories, and SLAs.",
+        "Recorded a full history of interactions and generated reports on volume, demand types, and support team performance."
+      ],
+      "links": []
+    },
+    {
+      "title": "Dental Care Microservice",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL",
+      "bullets": [
+        "Developed management of dental records, appointments, diagnoses, and procedures linked to patients and professionals.",
+        "Included support for treatment planning, production reports, and access control to preserve clinical confidentiality."
+      ],
+      "links": []
+    },
+    {
+      "title": "Clinical Care Microservice",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL",
+      "bullets": [
+        "Implemented electronic medical records with anamnesis, clinical progress notes, and prescriptions for medical and nursing consultations.",
+        "Added appointment scheduling, care indicators, and role-specific access profiles by professional type."
+      ],
+      "links": []
+    },
+    {
+      "title": "Educational Care Microservice",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL",
+      "bullets": [
+        "Developed management of educational sessions with student, educator, class, and follow-up record registration.",
+        "Implemented attendance control, pedagogical reports, and distinct profiles for teachers, pedagogical coordinators, and management."
+      ],
+      "links": []
+    },
+    {
+      "title": "Automated Operational and Attendance Reports",
+      "stack": "Java, JasperReports, Jaspersoft Studio",
+      "bullets": [
+        "Automated PDF report generation from parameterizable templates integrated with back-end services, eliminating manual processes."
+      ],
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "name": "SAM HELSON NUNES DINIZ",
+  "title": "",
+  "email": "sam04hel.dev@gmail.com",
+  "phone_e164": "+5598984508897",
+  "phone_display": "+55 98 984508897",
+  "location": "São Luís, Maranhão, Brasil",
+  "linkedin_url": "https://www.linkedin.com/in/samhelson-java/",
+  "github_url": "https://github.com/SamInst",
+  "website_url": "",
+  "photo": "photo.png",
+
+  "labels": {
+    "lang": "pt-BR",
+    "summary": "Resumo",
+    "experience": "Experiência",
+    "education": "Formação",
+    "languages": "Idiomas",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "technologies": "Tecnologias"
+  },
+
+  "summary": "26 anos, Desenvolvedor de software especializado em Back-End Java, focado na construção de APIs REST escaláveis e arquiteturas de microserviços. Atuo profissionalmente há 3 anos, desenvolvendo e mantendo sistemas de gestão pública, privada e autônoma. Minhas principais tecnologias incluem Java, Spring Boot, Git/Gitlab, Oracle, PostgreSQL, MongoDB, RabbitMQ, WebSocket, Docker e SonarQube.\n\nTenho conhecimentos complementares em Scrum, Linux, Noções de redes, HTML/CSS/JS, Suporte como QA, Noções de UX/UI e inglês técnico nível B1. Disponibilidade para trabalhar presencialmente em outros estados do Brasil, com flexibilidade para viagens e mudanças, e também aberto a oportunidades remotas.",
+
+  "skills": [
+    {
+      "group": "Back-end & APIs",
+      "items": ["Java", "Spring Boot", "APIs REST", "Swagger/OpenAPI", "WebSocket",  "RESTful", "API Gateway", "JPA", "JEE", "JDBC", "Sistemas Legados"]
+    },
+    {
+      "group": "Arquitetura",
+      "items": ["Migração de legado para microserviços", "Separação de responsabilidades"]
+    },
+    {
+      "group": "Dados",
+      "items": ["PostgreSQL", "MongoDB", "Modelagem de dados", "SQL", "MySQL"]
+    },
+    {
+      "group": "Mensageria",
+      "items": ["RabbitMQ", "Comunicação assíncrona"]
+    },
+    {
+      "group": "Inteligência Artificial",
+      "items": ["Agentes de IA", "Machine Learning","Integração com LLMs"]
+    },
+    {
+      "group": "Qualidade",
+      "items": ["JUnit 5", "Testes unitários", "SonarQube", "Clean Code", "Criação e execução de cenários de teste", "Jacoco", "Test Coverage", "Design Patterns", "SOLID", "Clean Architecture", "DDD (Domain-Driven Design)", "TDD", "Hexagonal Architecture"]
+    },
+    {
+      "group": "Relatórios",
+      "items": ["JasperReports", "Jaspersoft Studio", "Templates e parâmetros", "Geração de PDF"]
+    },
+    {
+      "group": "Front-end & Design",
+      "items": ["HTML/CSS/JS", "Figma", "Noções de UX/UI", "Prototipação e conversão de layouts"]
+    },
+    {
+      "group": "DevOps & Ferramentas",
+      "items": ["DevOps", "Git", "GitHub", "GitLab", "Docker", "CI/CD pipelines", "Oracle e Heroku Cloud, Infrastructure", "VM's"]
+    },
+    {
+      "group": "Métodos & Complementares",
+      "items": ["Scrum", "Linux", "Noções de redes", "Gestão de escopo e entregas freelancer"]
+    }
+  ],
+
+  "experience": [
+    {
+  "role": "Desenvolvedor Java",
+  "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão (São Luís, Maranhão, Brasil)",
+  "date": "09/2023 — 01/2026 (2 anos e 5 meses)",
+  "bullets": [
+    "Projetei e desenvolvi uma API assíncrona para orquestração de entradas e saídas de internos de todas as unidades prisionais do estado do Maranhão, integrando dispositivos de biometria facial Intelbras via REST com validação em tempo real, para monitoramento em atividades operacionais para garantia de redução de pena.",
+    "Utilizei RabbitMQ como broker de mensagens, suportando alto volume de eventos simultâneos e atualizações em tempo real para dashboards operacionais e sistemas de monitoramento via WebSocket.",
+    "Migrei sistemas legados monolíticos para arquitetura de microserviços APIs REST com Spring Boot: RH (triagem, registro e delegação de acessos de servidores públicos), Almoxarifado, Help-Desk, Sistemas de odontologia, Atendimento Clínico, Atendimento Educacional, Chamador de senhas, automatizando diversos processos manuais críticos do sistema penitenciário.",
+    "Vivência em manutenção, aplicando melhorias contínuas em ambiente de produção.",
+    "Persisti logs detalhados de acesso, movimentação e auditoria, garantindo rastreabilidade completa dos eventos.",
+    "Automatizei geração de relatórios PDF com JasperReports, eliminando processos manuais recorrentes da operação.",
+    "Elevei segurança, manutenibilidade e padronização do código com análise estática contínua via SonarQube e cobertura sempre acima de 98% em testes unitários com JUnit 5.",
+    "Atuei como QA em demandas específicas, criando e executando cenários de teste para validação de regras de negócio e consistência de dados entre microserviços, otimizando tempo para alinhar com o prazo de entrega final dos projetos.",
+    "Padronizei documentação de APIs com Swagger/OpenAPI em alinhamento com os times de front-end e QA.",
+    "Utilizei Git (GitLab), Docker e CI/CD pipelines em ambiente ágil com Scrum."
+  ]
+},
+    {
+  "role": "Desenvolvedor Full-Stack",
+  "company": "Autônomo (Remoto / São Luís, Maranhão, Brasil)",
+  "date": "04/2023 — Presente",
+  "bullets": [
+    "Desenvolvi SaaS completo de gestão hoteleira utilizando as tecnologias Java, Spring Boot, PostgresSQL, HTML, CSS e JS, cobrindo cadastros, reservas, hospedagens, check-in/check-out, faturamento, controle de estoque e módulo financeiro com relatórios por período.",
+    "Implementei autenticação via JWT com segregação de permissões por perfil (recepção, governança, administração, financeiro) e realizei deploy em VM na Oracle Cloud Infrastructure, conteinerizando via docker e configurando ambiente para acesso remoto seguro.",
+    "Desenvolvi agente de IA para atendimento automatizado via WhatsApp, integrado a APIs de LLM para processamento de linguagem natural e condução de fluxos sem intervenção humana.",
+    "Desenvolvi aplicações desktop em Java Swing/JavaFX com manutenção evolutiva, refatoração e integrações com bancos relacionais e não-relacionais.",
+    "Desenhei interfaces no Figma e converti protótipos em telas funcionais com HTML/CSS/JS, executando QA com cenários de teste para validação de regras de negócio.",
+    "Gerenciei escopo, prazos e expectativas de forma independente em modelo 100% remoto, com foco em comunicação clara e entrega de valor."
+  ]
+},
+    {
+      "role": "Estagiário de Desenvolvimento de Sistemas",
+      "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão (São Luís, Maranhão, Brasil)",
+      "date": "03/2023 — 09/2023 (7 meses)",
+      "bullets": [
+        "Realizei manutenções de otimização de código em Java identificando e corrigindo bugs em sistemas existentes, estabilizando em ambiente de homologação.",
+        "Executei e criei testes de qualidade para validação de entregas, com cobertura sempre acima de 90% em todas as Api's, desenvolvendo compreensão prática de processos de testes e QA.",
+        "Evolui continuamente as habilidades técnicas em Java e desenvolvimento back-end dentro de um ambiente corporativo real."
+      ]
+    },
+    {
+      "role": "Técnico de Suporte em TI e Infraestrutura",
+      "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão (São Luís, Maranhão, Brasil)",
+      "date": "03/2022 — 07/2023 (1 ano e 5 meses)",
+      "bullets": [
+        "Realizei suporte de hardware/software, troubleshooting de rede, administração de ferramentas para manutenção de servidores e estações de trabalho, instalação de múltiplos sistemas operacionais e softwares licenciados, garantindo desempenho dos recursos de TI.",
+        "Priorizei e resolvi chamados de incidentes com atendimento presencial, telefônico e remoto, mantendo a liderança em resolução eficiente de problemas técnicos.",
+        "Desenvolvi automações em planilhas para registro de chamados, otimizando processos e reduzindo o tempo em tarefas operacionais recorrentes."
+      ]
+    },
+    {
+      "role": "Estagiário de Suporte e Administração em TI",
+      "company": "Instituto de Psiquiatria Ruy Palhano (São Luís, Maranhão, Brasil)",
+      "date": "10/2021 — 03/2022 (6 meses)",
+      "bullets": [
+        "Apoiei atividades de suporte de TI e rotinas administrativas, desenvolvendo habilidades de atendimento e resolução de problemas técnicos."
+      ]
+    },
+    {
+      "role": "Gerente Operacional | Hotelaria",
+      "company": "Isto E Pousada (Viana, Maranhão, Brasil)",
+      "date": "12/2017 — 01/2019 (1 ano e 2 meses)",
+      "bullets": [
+        "Gerenciei operações, reservas, estoque, financeiro e precificação, desenvolvendo visão de negócio e gestão de processos em pequena empresa."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "title": "Bacharelado em Engenharia da Computação",
+      "subtitle": "Universidade CEUMA (São Luís, MA, Brasil)",
+      "date": "Concluído — 12/2023"
+    }
+  ],
+
+  "languages": [
+    {
+      "name": "Inglês",
+      "level": "Intermediário (B1)",
+      "note": "Leitura técnica e conversação"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Sistema de Eventos com Biometria Facial e Digital",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL, RabbitMQ, WebSocket",
+      "bullets": [
+        "Projetei e desenvolvi uma API assíncrona para orquestração de entradas e saídas de internos, integrando dispositivos de biometria facial Intelbras via REST com validação em tempo real",
+        "Desacoplei os serviços com RabbitMQ como broker de mensagens, suportando alto volume de eventos simultâneos com alta disponibilidade",
+        "Transmiti atualizações em tempo real para dashboards e sistemas de monitoramento via WebSocket",
+        "Persisti logs detalhados de acesso, movimentação e auditoria em PostgreSQL, garantindo rastreabilidade completa dos eventos",
+        "Apliquei análise estática com SonarQube, elevando segurança, manutenibilidade e padronização do código"
+      ],
+      "links": []
+    },
+    {
+      "title": "SAAS de Gestão Hoteleira",
+      "stack": "Java, Spring Boot, PostgreSQL, HTML/CSS/JS, Oracle Cloud VM, QA, UI/UX, Figma",
+      "bullets": [
+        "Desenvolvi aplicação web completa para gestão hoteleira, cobrindo reservas, hospedagens, check-in/check-out e faturamento de ponta a ponta",
+        "Implementei autenticação via JWT com segregação de permissões por perfil (recepção, governança, administração, financeiro)",
+        "Construí módulo financeiro com lançamentos, recebimentos, descontos e relatórios de receita por período",
+        "Controlei estoque de produtos consumidos na hospedagem (frigobar, insumos) vinculado aos lançamentos de consumo",
+        "Realizei deploy e configuração da aplicação em VM na Oracle Cloud Infrastructure, garantindo disponibilidade e acesso remoto seguro",
+        "Desenhei interfaces e fluxos de navegação no Figma e converti protótipos em telas funcionais com HTML/CSS/JS",
+        "Atuei em QA criando e executando cenários de teste para validação de regras de negócio e consistência de dados"
+      ],
+      "links": []
+    },
+    {
+      "title": "Agente de Inteligência Artificial para Atendimento via WhatsApp",
+      "stack": "Java, Spring Boot, IA (LLM), WhatsApp API, PostgreSQL, Oracle Cloud VM",
+      "bullets": [
+        "Desenvolvi agente de IA para atendimento automatizado via WhatsApp, capaz de responder dúvidas, coletar informações e conduzir fluxos de atendimento sem intervenção humana",
+        "Integrei o agente com APIs de LLM para processamento de linguagem natural e geração de respostas contextuais",
+        "Persisti histórico de conversas e dados coletados em PostgreSQL para rastreabilidade e análise de atendimentos",
+        "Realizei deploy do serviço em VM na Oracle Cloud Infrastructure com configuração de ambiente e disponibilidade contínua"
+      ],
+      "links": []
+    },
+    {
+      "title": "Microserviço de Almoxarifado",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL",
+      "bullets": [
+        "Desenvolvi para controle de estoque com movimentações de entrada, saída e transferência, cadastro de itens, fornecedores e centros de custo",
+        "Implementei geração de relatórios de consumo, alertas de reposição e trilha de auditoria com perfis de acesso por função"
+      ],
+      "links": []
+    },
+    {
+      "title": "Microserviço de Help-Desk",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL",
+      "bullets": [
+        "Construí um sistema de chamados internos com fluxo completo de abertura, atendimento técnico, transferência e encerramento, incluindo prioridades, categorias e SLAs",
+        "Registrei histórico completo das interações e gerei relatórios de volume, tipos de demanda e desempenho da equipe de suporte"
+      ],
+      "links": []
+    },
+    {
+      "title": "Microserviço de Odontologia",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL",
+      "bullets": [
+        "Desenvolvi gestão de prontuários odontológicos, consultas, diagnósticos e procedimentos vinculados a pacientes e profissionais",
+        "Incluí suporte a planejamento de tratamento, relatórios de produção e controle de acesso para preservação de sigilo clínico"
+      ],
+      "links": []
+    },
+    {
+      "title": "Microserviço de Atendimento Clínico",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL",
+      "bullets": [
+        "Implementei prontuário eletrônico com anamnese, evolução clínica e prescrições para atendimentos médicos e de enfermagem",
+        "Adicionei agendamento de consultas, indicadores assistenciais e perfis de acesso específicos por tipo de profissional"
+      ],
+      "links": []
+    },
+    {
+      "title": "Microserviço de Atendimento Educacional",
+      "stack": "Java, Spring Boot, SonarQube, PostgreSQL",
+      "bullets": [
+        "Desenvolvi gestão de atendimentos pedagógicos com cadastro de alunos, educadores, turmas e registros de acompanhamento.",
+        "Implementei controle de frequência, relatórios pedagógicos e perfis distintos para professores, pedagogos e gestão."
+      ],
+      "links": []
+    },
+    {
+      "title": "Relatórios Operacionais e de Frequência Automatizados",
+      "stack": "Java, JasperReports, Jaspersoft Studio",
+      "bullets": [
+        "Automatizei geração de relatórios PDF a partir de templates parametrizáveis integrados aos serviços de back-end, eliminando processos manuais."
+      ],
+      "links": []
+    }
+  ]
+}

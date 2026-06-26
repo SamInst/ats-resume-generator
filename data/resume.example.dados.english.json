@@ -1,0 +1,195 @@
+{
+  "name": "SAM HELSON NUNES DINIZ",
+  "title": "Computer Engineer · Software Developer · Data Analyst",
+  "email": "sam04hel.dev@gmail.com",
+  "phone_e164": "+5598984508897",
+  "phone_display": "+55 98 984508897",
+  "location": "Sao Luis, Maranhao, Brazil",
+  "linkedin_url": "https://www.linkedin.com/in/samhelson-java/",
+  "github_url": "https://github.com/SamInst",
+  "website_url": "",
+  "photo": "photo.png",
+
+  "labels": {
+    "lang": "en-US",
+    "summary": "Summary",
+    "experience": "Experience",
+    "education": "Education",
+    "languages": "Languages",
+    "skills": "Skills",
+    "projects": "Projects",
+    "technologies": "Technologies"
+  },
+
+  "summary": "26 years old, Computer Engineer, Software Developer, and Data Analyst specialized in Java Back-End, focused on building scalable REST APIs and microservices architectures. I have been working professionally for 3 years, developing and maintaining public, private, and freelance management systems that produce, organize, and consume large volumes of data. My core technologies include Java, Spring Boot, Git/GitLab, Oracle, PostgreSQL, MongoDB, RabbitMQ, WebSocket, Docker, and SonarQube.\n\nI have intermediate knowledge of Excel, basic skills in building dashboards, Power BI, SQL, Power Query, and data design, along with familiarity with corporate tools.\n\nI also have complementary knowledge in Scrum, Linux, Networking basics, HTML/CSS/JS, QA support, UX/UI basics, and technical English at a B1 level. Available to work on-site in other Brazilian states, also in another country, with flexibility for travel and relocation, and also open to remote opportunities.",
+
+  "skills": [
+    {
+      "group": "Data & Databases, BI, Dashboards & Reports",
+      "items": ["SQL", "PostgreSQL", "MySQL", "Data modeling", "Queries", "Data manipulation and organization", "Data consistency validation", "Dashboard building", "Power BI", "JasperReports", "PDF report generation", "Operational indicators and metrics", "Data visualization"]
+    },
+    {
+      "group": "Spreadsheets & Corporate Tools",
+      "items": ["Excel", "Spreadsheet automation", "Process standardization and documentation", "Digital tools and corporate systems"]
+    },
+    {
+      "group": "Data Quality",
+      "items": ["Inconsistency detection", "Business rule validation", "Audit trails and traceability", "QA / Test scenario design and execution", "SonarQube"]
+    },
+    {
+      "group": "Development",
+      "items": ["Java", "Spring Boot", "REST APIs", "HTML/CSS/JS", "Systems integration", "RabbitMQ", "WebSocket"]
+    },
+    {
+      "group": "Design & Presentations",
+      "items": ["Figma", "UX/UI basics", "Building presentations and materials", "Prototyping and layout conversion"]
+    },
+    {
+      "group": "DevOps & Versioning",
+      "items": ["Git", "GitHub", "GitLab", "Docker", "Oracle Cloud", "Linux"]
+    },
+    {
+      "group": "Methods & Complementary",
+      "items": ["Scrum", "Technical documentation", "Technical English (B1)", "Operational demand organization"]
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Full-Stack Software Developer · Data Analyst",
+      "company": "Freelance (Remote / Sao Luis, Maranhao, Brazil)",
+      "date": "04/2023 — Present",
+      "bullets": [
+        "Developed a complete hotel management SaaS using Java, Spring Boot, PostgreSQL, HTML, CSS, and JS, covering registrations, bookings, stays, check-in/check-out. Modeled dashboards and operational indicators for billing, inventory control, and the financial module with reports by period.",
+        "Implemented inventory control with inbound and outbound movements linked to consumption entries, ensuring data integrity and consistency.",
+        "Developed an AI agent integrated with LLM APIs that collects, organizes, and persists service data in a database for later analysis and traceability.",
+        "Designed interfaces and dashboards in Figma and converted the prototypes into functional screens with HTML/CSS/JS, handling the visual presentation of data.",
+        "Acted in QA by designing and executing test scenarios to validate business rules and detect data inconsistencies across modules.",
+        "Deployed to a VM on Oracle Cloud Infrastructure, independently managing scope, deadlines, and process documentation."
+      ]
+    },
+    {
+      "role": "Java Developer",
+      "company": "SEAP - State Secretariat of Penitentiary Administration of Maranhao (Sao Luis, Maranhao, Brazil)",
+      "date": "09/2023 — 01/2026 (2 years and 5 months)",
+      "bullets": [
+        "Designed and developed an asynchronous API to orchestrate entries and exits of inmates across all prison units in the state of Maranhao, integrating Intelbras facial biometric devices via REST with real-time validation, supporting operational monitoring activities for sentence-reduction assurance.",
+        "Used RabbitMQ as a message broker, supporting a high volume of simultaneous events and real-time updates for operational dashboards and monitoring systems via WebSocket.",
+        "Migrated legacy monolithic systems to a REST API microservices architecture with Spring Boot: HR (screening, registration, and delegation of public servant access), Warehouse, Help-Desk, Dentistry, Clinical Care, Educational Care, and Queue Caller, automating several critical manual processes of the prison system.",
+        "Experience in maintenance, applying continuous improvements in a production environment.",
+        "Persisted detailed access, movement, and audit logs, ensuring full traceability of events.",
+        "Automated PDF report generation with JasperReports, eliminating recurring manual processes from operations.",
+        "Raised security, maintainability, and code standardization with continuous static analysis via SonarQube and coverage consistently above 98% in unit tests with JUnit 5.",
+        "Acted as QA on specific demands, designing and executing test scenarios to validate business rules and data consistency across microservices, optimizing time to meet final project delivery deadlines.",
+        "Standardized API documentation with Swagger/OpenAPI in alignment with the front-end and QA teams.",
+        "Used Git (GitLab), Docker, and CI/CD pipelines in an agile environment with Scrum."
+      ]
+    },
+    {
+      "role": "Systems Development Intern",
+      "company": "SEAP - State Secretariat of Penitentiary Administration of Maranhao (Sao Luis, Maranhao, Brazil)",
+      "date": "03/2023 — 09/2023 (7 months)",
+      "bullets": [
+        "Performed code maintenance and optimization, identifying and fixing inconsistencies in existing systems and data.",
+        "Designed and executed quality tests to validate deliveries, with coverage above 90%, developing hands-on practice in data validation and consistency."
+      ]
+    },
+    {
+      "role": "IT Support and Infrastructure Technician",
+      "company": "SEAP - State Secretariat of Penitentiary Administration of Maranhao (Sao Luis, Maranhao, Brazil)",
+      "date": "03/2022 — 07/2023 (1 year and 5 months)",
+      "bullets": [
+        "Developed spreadsheet automations (Excel) for ticket logging and control, standardizing data and reducing time spent on recurring operational tasks.",
+        "Prioritized and resolved incident tickets with in-person, phone, and remote support, keeping records organized and documented.",
+        "Provided hardware/software support and managed internal tools, ensuring the performance of IT resources."
+      ]
+    },
+    {
+      "role": "IT Support and Administration Intern",
+      "company": "Ruy Palhano Psychiatry Institute (Sao Luis, Maranhao, Brazil)",
+      "date": "10/2021 — 03/2022 (6 months)",
+      "bullets": [
+        "Supported administrative routines and IT support, organizing records and developing customer service and problem-solving skills."
+      ]
+    },
+    {
+      "role": "Operations Manager | Hospitality",
+      "company": "Isto E Pousada (Viana, Maranhao, Brazil)",
+      "date": "12/2017 — 01/2019 (1 year and 2 months)",
+      "bullets": [
+        "Managed operations, bookings, inventory, finance, and pricing, tracking indicators and developing business and commercial insight."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "title": "Bachelor's Degree in Computer Engineering",
+      "subtitle": "CEUMA University (Sao Luis, MA, Brazil)",
+      "date": "Completed — 12/2023"
+    }
+  ],
+
+  "languages": [
+    {
+      "name": "English",
+      "level": "Intermediate (B1)",
+      "note": "Technical reading and conversation"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Real-Time Operational Monitoring Dashboards",
+      "stack": "Java, Spring Boot, PostgreSQL, RabbitMQ, WebSocket",
+      "bullets": [
+        "Developed real-time monitoring panels to track inmate entries and exits across all prison units in the state",
+        "Structured the data flow with RabbitMQ as a message broker, supporting a high volume of simultaneous events with high availability",
+        "Streamed updates to the dashboards via WebSocket, keeping the information always synchronized",
+        "Persisted and organized detailed access, movement, and audit logs in PostgreSQL, ensuring traceability and data quality"
+      ],
+      "links": []
+    },
+    {
+      "title": "Automated PDF Reports and Indicators",
+      "stack": "Java, JasperReports, Jaspersoft Studio, PostgreSQL",
+      "bullets": [
+        "Automated the generation of operational and attendance reports from parameterizable templates integrated with the databases",
+        "Eliminated manual data extraction and consolidation processes, standardizing the delivery of recurring reports",
+        "Structured SQL queries to feed the reports with consistent indicators and metrics"
+      ],
+      "links": []
+    },
+    {
+      "title": "Hotel Management SaaS with Reports and Indicators",
+      "stack": "Java, Spring Boot, PostgreSQL, HTML/CSS/JS, Figma, Excel",
+      "bullets": [
+        "Modeled the complete database (bookings, stays, billing, inventory, and finance) with SQL queries and consistent relationships",
+        "Built revenue, occupancy, and consumption reports by period, supporting decision-making with organized data",
+        "Controlled inventory with movements linked to consumption entries, ensuring data integrity",
+        "Designed dashboards and interfaces in Figma and converted them into functional screens for visual data presentation"
+      ],
+      "links": []
+    },
+    {
+      "title": "Spreadsheet Automation for Ticket Control",
+      "stack": "Excel, Spreadsheet automation",
+      "bullets": [
+        "Developed spreadsheet automations for logging, categorizing, and controlling IT tickets",
+        "Standardized data organization and reduced time spent on recurring operational tasks",
+        "Generated consolidations and tracking of service and team productivity indicators"
+      ],
+      "links": []
+    },
+    {
+      "title": "AI Agent with Data Collection and Organization",
+      "stack": "Java, Spring Boot, AI (LLM), WhatsApp API, PostgreSQL",
+      "bullets": [
+        "Developed an AI agent that collects service information and organizes and persists it in a structured database",
+        "Integrated the agent with LLM APIs for natural language processing and contextual response generation",
+        "Maintained conversation history and collected data in PostgreSQL for traceability and later analysis"
+      ],
+      "links": []
+    }
+  ]
+}
