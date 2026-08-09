@@ -56,22 +56,6 @@
 
   "experience": [
     {
-      "role": "Desenvolvedor Java (PJ)",
-      "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão",
-      "date": "09/2023 — 01/2026",
-      "bullets": [
-        "Migrei sistemas legados monolíticos para arquitetura de microserviços, aumentando a rastreabilidade e reduzindo o acoplamento entre serviços críticos do sistema penitenciário",
-        "Desenvolvi e mantive APIs REST com Spring Boot atendendo múltiplos domínios de negócio em ambiente de produção",
-        "Implementei comunicação assíncrona com RabbitMQ e atualizações em tempo real via WebSocket para dashboards operacionais",
-        "Reduzi risco de regressão com cobertura de testes unitários (JUnit 5) e análise estática contínua via SonarQube",
-        "Automatizei geração de relatórios PDF com JasperReports, eliminando processos manuais recorrentes da operação",
-        "Atuei como Quality Assurance em demandas específicas, criando e executando cenários de teste para validação de regras de negócio, usabilidade e consistência de dados entre microserviços",
-        "Contribuí no desenvolvimento de interfaces web com HTML/CSS/JS a partir de protótipos desenhados no Figma, garantindo alinhamento entre layout e comportamento esperado",
-        "Padronizei documentação de APIs com Swagger/OpenAPI, reduzindo dúvidas entre times de front-end e QA",
-        "Utilizei Git (GitLab), Docker e rotinas de CI/CD em ambiente ágil com Scrum"
-      ]
-    },
-    {
       "role": "Desenvolvedor Java Freelancer | Full-Stack · IA · Desktop",
       "company": "Autônomo",
       "date": "01/2024 — Presente",
@@ -85,39 +69,52 @@
       ]
     },
     {
-      "role": "Estagiário de Desenvolvimento de Sistemas | Java",
       "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão",
-      "date": "03/2023 — 09/2023",
-      "bullets": [
-        "Apoiei demandas de desenvolvimento Java identificando e corrigindo bugs em sistemas existentes, contribuindo para a estabilidade do código em ambiente de produção",
-        "Executei testes de qualidade para validação de entregas, desenvolvendo compreensão prática de processos de testes e QA",
-        "Evolui continuamente as habilidades técnicas em Java e desenvolvimento back-end dentro de um ambiente corporativo real"
-      ]
-    },
-    {
-      "role": "Técnico de Suporte em TI | Infraestrutura & Automação",
-      "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão",
-      "date": "03/2022 — 07/2023",
-      "bullets": [
-        "Realizei suporte de hardware/software, troubleshooting de rede e administração de ferramentas internas",
-        "Priorizei e resolvi chamados de incidentes com atendimento presencial, telefônico e remoto",
-        "Desenvolvi automações em planilhas que reduziram o tempo em tarefas operacionais recorrentes"
-      ]
-    },
-    {
-      "role": "Estagiário de Suporte e Administração em TI",
-      "company": "Instituto de Psiquiatria Ruy Palhano",
-      "date": "10/2021 — 03/2022",
-      "bullets": [
-        "Apoiei atividades de suporte de TI e rotinas administrativas, desenvolvendo habilidades de atendimento e resolução de problemas técnicos"
+      "date": "03/2022 — 01/2026 (3 anos e 11 meses)",
+      "roles": [
+        {
+          "role": "Desenvolvedor Java (PJ)",
+          "date": "09/2023 — 01/2026 (2 anos e 5 meses)",
+          "bullets": [
+            "Migrei sistemas legados monolíticos para arquitetura de microserviços, aumentando a rastreabilidade e reduzindo o acoplamento entre serviços críticos do sistema penitenciário",
+            "Desenvolvi e mantive APIs REST com Spring Boot atendendo múltiplos domínios de negócio em ambiente de produção",
+            "Implementei comunicação assíncrona com RabbitMQ e atualizações em tempo real via WebSocket para dashboards operacionais",
+            "Reduzi risco de regressão com cobertura de testes unitários (JUnit 5) e análise estática contínua via SonarQube",
+            "Automatizei geração de relatórios PDF com JasperReports, eliminando processos manuais recorrentes da operação",
+            "Atuei como Quality Assurance em demandas específicas, criando e executando cenários de teste para validação de regras de negócio, usabilidade e consistência de dados entre microserviços",
+            "Contribuí no desenvolvimento de interfaces web com HTML/CSS/JS a partir de protótipos desenhados no Figma, garantindo alinhamento entre layout e comportamento esperado",
+            "Padronizei documentação de APIs com Swagger/OpenAPI, reduzindo dúvidas entre times de front-end e QA",
+            "Utilizei Git (GitLab), Docker e rotinas de CI/CD em ambiente ágil com Scrum"
+          ]
+        },
+        {
+          "role": "Estagiário de Desenvolvimento de Sistemas | Java",
+          "date": "03/2023 — 09/2023 (7 meses)",
+          "bullets": [
+            "Apoiei demandas de desenvolvimento Java identificando e corrigindo bugs em sistemas existentes, contribuindo para a estabilidade do código em ambiente de produção",
+            "Executei testes de qualidade para validação de entregas, desenvolvendo compreensão prática de processos de testes e QA",
+            "Promovido a Desenvolvedor Java ao final do período de estágio, assumindo demandas de desenvolvimento em ambiente de produção"
+          ]
+        },
+        {
+          "role": "Técnico de Suporte em TI | Infraestrutura & Automação",
+          "date": "03/2022 — 07/2023 (1 ano e 5 meses)",
+          "bullets": [
+            "Realizei suporte de hardware/software, troubleshooting de rede e administração de ferramentas internas",
+            "Priorizei e resolvi chamados de incidentes com atendimento presencial, telefônico e remoto",
+            "Desenvolvi automações em planilhas que reduziram o tempo em tarefas operacionais recorrentes"
+          ]
+        }
       ]
     },
     {
       "role": "Gerente Operacional | Hotelaria",
       "company": "Isto E Pousada",
-      "date": "12/2017 — 01/2019",
+      "date": "12/2017 — 01/2019 (1 ano e 2 meses)",
       "bullets": [
-        "Gerenciei operações, reservas, estoque, financeiro e precificação, desenvolvendo visão de negócio e gestão de processos em pequena empresa"
+        "Respondi pela operação completa da pousada — recepção, hospedagem, check-in/check-out e ciclo de reservas —, acompanhando ocupação e receita por período",
+        "Conduzi o financeiro e a precificação: contas a pagar e receber, fechamento de caixa, apuração de resultado e definição de diárias por sazonalidade e demanda",
+        "Controlei estoque de insumos e frigobar vinculado ao consumo dos hóspedes e consolidei indicadores da operação — domínio de negócio que aplico hoje no SaaS de gestão hoteleira que desenvolvo"
       ]
     }
   ],
@@ -133,7 +130,7 @@
   "languages": [
     {
       "name": "Inglês",
-      "level": "Intermediário (B2)",
+      "level": "Intermediário Avançado (B2)",
       "note": "Leitura técnica e conversação"
     }
   ],

@@ -32,7 +32,7 @@ function skillsHtml(skills) {
   return skills
     .map(
       (g) =>
-        `<div class="item"><div class="item-title">${escapeHtml(g.group)}:</div> ${escapeHtml(
+        `<div class="item skill-item"><div class="item-title">${escapeHtml(g.group)}:</div> ${escapeHtml(
           g.items.join(", "),
         )}</div>`,
     )
@@ -67,10 +67,8 @@ function projectsHtml(projects, techLabel) {
     .join("\n");
 }
 
-function experienceHtml(exps) {
-  return exps
-    .map(
-      (e) => `
+function singleRoleHtml(e) {
+  return `
 <div class="item">
   <div class="item-header">
     <div>
@@ -80,8 +78,43 @@ function experienceHtml(exps) {
     <div class="item-date">${escapeHtml(e.date)}</div>
   </div>
   ${bulletsHtml(e.bullets)}
-</div>`,
+</div>`;
+}
+
+function careerPathHtml(e) {
+  const roles = e.roles
+    .map(
+      (r) => `
+  <div class="role">
+    <div class="item-header">
+      <div class="role-title">${escapeHtml(r.role)}</div>
+      <div class="item-date">${escapeHtml(r.date)}</div>
+    </div>
+    ${bulletsHtml(r.bullets)}
+  </div>`,
     )
+    .join("\n");
+
+  const location = e.location
+    ? `<div class="item-subtitle company-location">${escapeHtml(e.location)}</div>`
+    : "";
+
+  return `
+<div class="item">
+  <div class="item-header">
+    <div>
+      <div class="item-title">${escapeHtml(e.company)}</div>
+      ${location}
+    </div>
+    <div class="item-date">${escapeHtml(e.date)}</div>
+  </div>
+${roles}
+</div>`;
+}
+
+function experienceHtml(exps) {
+  return exps
+    .map((e) => (Array.isArray(e.roles) ? careerPathHtml(e) : singleRoleHtml(e)))
     .join("\n");
 }
 

@@ -21,7 +21,7 @@
     "technologies": "Technologies"
   },
 
-  "summary": "26 years old, Computer Engineer, Software Developer, and Data Analyst specialized in Java Back-End, focused on building scalable REST APIs and microservices architectures. I have been working professionally for 3 years, developing and maintaining public, private, and freelance management systems that produce, organize, and consume large volumes of data. My core technologies include Java, Spring Boot, Git/GitLab, Oracle, PostgreSQL, MongoDB, RabbitMQ, WebSocket, Docker, and SonarQube.\n\nI have intermediate knowledge of Excel, basic skills in building dashboards, Power BI, SQL, Power Query, and data design, along with familiarity with corporate tools.\n\nI also have complementary knowledge in Scrum, Linux, Networking basics, HTML/CSS/JS, QA support, UX/UI basics, and technical English at a B1 level. Available to work on-site in other Brazilian states, also in another country, with flexibility for travel and relocation, and also open to remote opportunities.",
+  "summary": "26 years old, Computer Engineer, Software Developer, and Data Analyst specialized in Java Back-End, focused on building scalable REST APIs and microservices architectures. I have been working professionally for 3 years, developing and maintaining public, private, and freelance management systems that produce, organize, and consume large volumes of data. My core technologies include Java, Spring Boot, Git/GitLab, Oracle, PostgreSQL, MongoDB, RabbitMQ, WebSocket, Docker, and SonarQube.\n\nI have intermediate knowledge of Excel, basic skills in building dashboards, Power BI, SQL, Power Query, and data design, along with familiarity with corporate tools.\n\nI worked as an Operations Manager in hospitality before my career in technology, responsible for bookings, inventory, finance, pricing, and indicators — business insight I now apply when building systems for operations.\n\nI also have complementary knowledge in Scrum, Linux, Networking basics, HTML/CSS/JS, QA support, UX/UI basics, and English at a B2 level. Available to work on-site in other Brazilian states, also in another country, with flexibility for travel and relocation, and also open to remote opportunities.",
 
   "skills": [
     {
@@ -50,7 +50,7 @@
     },
     {
       "group": "Methods & Complementary",
-      "items": ["Scrum", "Technical documentation", "Technical English (B1)", "Operational demand organization"]
+      "items": ["Scrum", "Technical documentation", "English (B2)", "Operations and process management", "Operational demand organization"]
     }
   ],
 
@@ -69,47 +69,44 @@
       ]
     },
     {
-      "role": "Java Developer",
-      "company": "SEAP - State Secretariat of Penitentiary Administration of Maranhao (Sao Luis, Maranhao, Brazil)",
-      "date": "09/2023 — 01/2026 (2 years and 5 months)",
-      "bullets": [
-        "Designed and developed an asynchronous API to orchestrate entries and exits of inmates across all prison units in the state of Maranhao, integrating Intelbras facial biometric devices via REST with real-time validation, supporting operational monitoring activities for sentence-reduction assurance.",
-        "Used RabbitMQ as a message broker, supporting a high volume of simultaneous events and real-time updates for operational dashboards and monitoring systems via WebSocket.",
-        "Migrated legacy monolithic systems to a REST API microservices architecture with Spring Boot: HR (screening, registration, and delegation of public servant access), Warehouse, Help-Desk, Dentistry, Clinical Care, Educational Care, and Queue Caller, automating several critical manual processes of the prison system.",
-        "Experience in maintenance, applying continuous improvements in a production environment.",
-        "Persisted detailed access, movement, and audit logs, ensuring full traceability of events.",
-        "Automated PDF report generation with JasperReports, eliminating recurring manual processes from operations.",
-        "Raised security, maintainability, and code standardization with continuous static analysis via SonarQube and coverage consistently above 98% in unit tests with JUnit 5.",
-        "Acted as QA on specific demands, designing and executing test scenarios to validate business rules and data consistency across microservices, optimizing time to meet final project delivery deadlines.",
-        "Standardized API documentation with Swagger/OpenAPI in alignment with the front-end and QA teams.",
-        "Used Git (GitLab), Docker, and CI/CD pipelines in an agile environment with Scrum."
-      ]
-    },
-    {
-      "role": "Systems Development Intern",
-      "company": "SEAP - State Secretariat of Penitentiary Administration of Maranhao (Sao Luis, Maranhao, Brazil)",
-      "date": "03/2023 — 09/2023 (7 months)",
-      "bullets": [
-        "Performed code maintenance and optimization, identifying and fixing inconsistencies in existing systems and data.",
-        "Designed and executed quality tests to validate deliveries, with coverage above 90%, developing hands-on practice in data validation and consistency."
-      ]
-    },
-    {
-      "role": "IT Support and Infrastructure Technician",
-      "company": "SEAP - State Secretariat of Penitentiary Administration of Maranhao (Sao Luis, Maranhao, Brazil)",
-      "date": "03/2022 — 07/2023 (1 year and 5 months)",
-      "bullets": [
-        "Developed spreadsheet automations (Excel) for ticket logging and control, standardizing data and reducing time spent on recurring operational tasks.",
-        "Prioritized and resolved incident tickets with in-person, phone, and remote support, keeping records organized and documented.",
-        "Provided hardware/software support and managed internal tools, ensuring the performance of IT resources."
-      ]
-    },
-    {
-      "role": "IT Support and Administration Intern",
-      "company": "Ruy Palhano Psychiatry Institute (Sao Luis, Maranhao, Brazil)",
-      "date": "10/2021 — 03/2022 (6 months)",
-      "bullets": [
-        "Supported administrative routines and IT support, organizing records and developing customer service and problem-solving skills."
+      "company": "SEAP - State Secretariat of Penitentiary Administration of Maranhao",
+      "location": "Sao Luis, Maranhao, Brazil",
+      "date": "03/2022 — 01/2026 (3 years and 11 months)",
+      "roles": [
+        {
+          "role": "Java Developer",
+          "date": "09/2023 — 01/2026 (2 years and 5 months)",
+          "bullets": [
+            "Designed and developed an asynchronous API to orchestrate entries and exits of inmates across all prison units in the state of Maranhao, integrating Intelbras facial biometric devices via REST with real-time validation, supporting operational monitoring activities for sentence-reduction assurance.",
+            "Used RabbitMQ as a message broker, supporting a high volume of simultaneous events and real-time updates for operational dashboards and monitoring systems via WebSocket.",
+            "Migrated legacy monolithic systems to a REST API microservices architecture with Spring Boot: HR (screening, registration, and delegation of public servant access), Warehouse, Help-Desk, Dentistry, Clinical Care, Educational Care, and Queue Caller, automating several critical manual processes of the prison system.",
+            "Experience in maintenance, applying continuous improvements in a production environment.",
+            "Persisted detailed access, movement, and audit logs, ensuring full traceability of events.",
+            "Automated PDF report generation with JasperReports, eliminating recurring manual processes from operations.",
+            "Raised security, maintainability, and code standardization with continuous static analysis via SonarQube and coverage consistently above 98% in unit tests with JUnit 5.",
+            "Acted as QA on specific demands, designing and executing test scenarios to validate business rules and data consistency across microservices, optimizing time to meet final project delivery deadlines.",
+            "Standardized API documentation with Swagger/OpenAPI in alignment with the front-end and QA teams.",
+            "Used Git (GitLab), Docker, and CI/CD pipelines in an agile environment with Scrum."
+          ]
+        },
+        {
+          "role": "Systems Development Intern",
+          "date": "03/2023 — 09/2023 (7 months)",
+          "bullets": [
+            "Performed code maintenance and optimization, identifying and fixing inconsistencies in existing systems and data.",
+            "Designed and executed quality tests to validate deliveries, with coverage above 90%, developing hands-on practice in data validation and consistency.",
+            "Promoted to Java Developer at the end of the internship, taking on development demands in a production environment."
+          ]
+        },
+        {
+          "role": "IT Support and Infrastructure Technician",
+          "date": "03/2022 — 07/2023 (1 year and 5 months)",
+          "bullets": [
+            "Developed spreadsheet automations (Excel) for ticket logging and control, standardizing data and reducing time spent on recurring operational tasks.",
+            "Prioritized and resolved incident tickets with in-person, phone, and remote support, keeping records organized and documented.",
+            "Provided hardware/software support and managed internal tools, ensuring the performance of IT resources."
+          ]
+        }
       ]
     },
     {
@@ -117,7 +114,9 @@
       "company": "Isto E Pousada (Viana, Maranhao, Brazil)",
       "date": "12/2017 — 01/2019 (1 year and 2 months)",
       "bullets": [
-        "Managed operations, bookings, inventory, finance, and pricing, tracking indicators and developing business and commercial insight."
+        "Ran the full operation of the guesthouse — front desk, accommodation, check-in/check-out, and the booking cycle — tracking occupancy and revenue by period.",
+        "Managed finance and pricing: accounts payable and receivable, cash closing, monthly result calculation, and room rates defined by seasonality and demand.",
+        "Controlled supplies and minibar inventory linked to guest consumption and consolidated operational indicators — business domain knowledge I now apply to the hotel management SaaS I develop."
       ]
     }
   ],
@@ -133,7 +132,7 @@
   "languages": [
     {
       "name": "English",
-      "level": "Intermediate (B1)",
+      "level": "Upper-Intermediate (B2)",
       "note": "Technical reading and conversation"
     }
   ],

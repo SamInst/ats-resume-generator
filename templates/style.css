@@ -60,6 +60,7 @@ a {
 .item-title,
 .item-subtitle,
 .item-date,
+.role-title,
 .tech-line {
   text-align: left;
 }
@@ -80,7 +81,7 @@ a {
 }
 
 .section {
-  margin-bottom: 17px;
+  margin-bottom: 14px;
   break-inside: auto;
 }
 
@@ -96,7 +97,7 @@ a {
 }
 
 .item {
-  margin-bottom: 8px;
+  margin-bottom: 7px;
 }
 
 .item-header {
@@ -104,6 +105,8 @@ a {
   justify-content: space-between;
   gap: 10px;
   align-items: baseline;
+  break-inside: avoid;
+  break-after: avoid;
 }
 
 .item-title {
@@ -120,6 +123,26 @@ a {
   font-size: 9pt;
   font-style: italic;
   white-space: nowrap;
+}
+
+.role {
+  margin-top: 2px;
+  padding-left: 10pt;
+  border-left: 2px solid #c9d6e2;
+}
+
+.role + .role {
+  margin-top: 8px;
+}
+
+.company-location {
+  line-height: 1.1;
+}
+
+.role-title {
+  font-weight: bold;
+  font-size: 9.5pt;
+  color: #1a3a5c;
 }
 
 .summary {
@@ -145,7 +168,12 @@ a {
 .bullets li {
   padding-left: 12pt;
   position: relative;
-  margin-bottom: 6px;
+  margin-bottom: 5px;
+  break-inside: avoid;
+}
+
+.skill-item {
+  break-inside: avoid;
 }
 
 .bullets li::before {

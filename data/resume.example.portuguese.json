@@ -21,7 +21,7 @@
     "technologies": "Tecnologias"
   },
 
-  "summary": "26 anos, Desenvolvedor de software especializado em Back-End Java, focado na construção de APIs REST escaláveis e arquiteturas de microserviços. Atuo profissionalmente há 3 anos, desenvolvendo e mantendo sistemas de gestão pública, privada e autônoma. Minhas principais tecnologias incluem Java, Spring Boot, Git/Gitlab, Oracle, PostgreSQL, MongoDB, RabbitMQ, WebSocket, Docker e SonarQube.\n\nTenho conhecimentos complementares em Scrum, Linux, Noções de redes, HTML/CSS/JS, Suporte como QA, Noções de UX/UI e inglês técnico nível B1. Disponibilidade para trabalhar presencialmente em outros estados do Brasil, com flexibilidade para viagens e mudanças, e também aberto a oportunidades remotas.",
+  "summary": "26 anos, Desenvolvedor de software especializado em Back-End Java, focado na construção de APIs REST escaláveis e arquiteturas de microserviços. Atuo profissionalmente há 3 anos, desenvolvendo e mantendo sistemas de gestão pública, privada e autônoma. Minhas principais tecnologias incluem Java, Spring Boot, Git/Gitlab, Oracle, PostgreSQL, MongoDB, RabbitMQ, WebSocket, Docker e SonarQube.\n\nAtuei como Gerente Operacional em hotelaria antes da carreira em tecnologia, respondendo por reservas, estoque, financeiro, precificação e indicadores — visão de negócio que aplico hoje na construção de sistemas para operação.\n\nTenho conhecimentos complementares em Scrum, Linux, Noções de redes, HTML/CSS/JS, Suporte como QA, Noções de UX/UI e inglês nível B2. Disponibilidade para trabalhar presencialmente em outros estados do Brasil, com flexibilidade para viagens e mudanças, e também aberto a oportunidades remotas.",
 
   "skills": [
     {
@@ -62,28 +62,11 @@
     },
     {
       "group": "Métodos & Complementares",
-      "items": ["Scrum", "Linux", "Noções de redes", "Gestão de escopo e entregas freelancer"]
+      "items": ["Scrum", "Linux", "Noções de redes", "Inglês (B2)", "Gestão operacional e de processos", "Gestão de escopo e entregas freelancer"]
     }
   ],
 
   "experience": [
-    {
-  "role": "Desenvolvedor Java",
-  "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão (São Luís, Maranhão, Brasil)",
-  "date": "09/2023 — 01/2026 (2 anos e 5 meses)",
-  "bullets": [
-    "Projetei e desenvolvi uma API assíncrona para orquestração de entradas e saídas de internos de todas as unidades prisionais do estado do Maranhão, integrando dispositivos de biometria facial Intelbras via REST com validação em tempo real, para monitoramento em atividades operacionais para garantia de redução de pena.",
-    "Utilizei RabbitMQ como broker de mensagens, suportando alto volume de eventos simultâneos e atualizações em tempo real para dashboards operacionais e sistemas de monitoramento via WebSocket.",
-    "Migrei sistemas legados monolíticos para arquitetura de microserviços APIs REST com Spring Boot: RH (triagem, registro e delegação de acessos de servidores públicos), Almoxarifado, Help-Desk, Sistemas de odontologia, Atendimento Clínico, Atendimento Educacional, Chamador de senhas, automatizando diversos processos manuais críticos do sistema penitenciário.",
-    "Vivência em manutenção, aplicando melhorias contínuas em ambiente de produção.",
-    "Persisti logs detalhados de acesso, movimentação e auditoria, garantindo rastreabilidade completa dos eventos.",
-    "Automatizei geração de relatórios PDF com JasperReports, eliminando processos manuais recorrentes da operação.",
-    "Elevei segurança, manutenibilidade e padronização do código com análise estática contínua via SonarQube e cobertura sempre acima de 98% em testes unitários com JUnit 5.",
-    "Atuei como QA em demandas específicas, criando e executando cenários de teste para validação de regras de negócio e consistência de dados entre microserviços, otimizando tempo para alinhar com o prazo de entrega final dos projetos.",
-    "Padronizei documentação de APIs com Swagger/OpenAPI em alinhamento com os times de front-end e QA.",
-    "Utilizei Git (GitLab), Docker e CI/CD pipelines em ambiente ágil com Scrum."
-  ]
-},
     {
   "role": "Desenvolvedor Full-Stack",
   "company": "Autônomo (Remoto / São Luís, Maranhão, Brasil)",
@@ -98,31 +81,44 @@
   ]
 },
     {
-      "role": "Estagiário de Desenvolvimento de Sistemas",
-      "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão (São Luís, Maranhão, Brasil)",
-      "date": "03/2023 — 09/2023 (7 meses)",
-      "bullets": [
-        "Realizei manutenções de otimização de código em Java identificando e corrigindo bugs em sistemas existentes, estabilizando em ambiente de homologação.",
-        "Executei e criei testes de qualidade para validação de entregas, com cobertura sempre acima de 90% em todas as Api's, desenvolvendo compreensão prática de processos de testes e QA.",
-        "Evolui continuamente as habilidades técnicas em Java e desenvolvimento back-end dentro de um ambiente corporativo real."
-      ]
-    },
-    {
-      "role": "Técnico de Suporte em TI e Infraestrutura",
-      "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão (São Luís, Maranhão, Brasil)",
-      "date": "03/2022 — 07/2023 (1 ano e 5 meses)",
-      "bullets": [
-        "Realizei suporte de hardware/software, troubleshooting de rede, administração de ferramentas para manutenção de servidores e estações de trabalho, instalação de múltiplos sistemas operacionais e softwares licenciados, garantindo desempenho dos recursos de TI.",
-        "Priorizei e resolvi chamados de incidentes com atendimento presencial, telefônico e remoto, mantendo a liderança em resolução eficiente de problemas técnicos.",
-        "Desenvolvi automações em planilhas para registro de chamados, otimizando processos e reduzindo o tempo em tarefas operacionais recorrentes."
-      ]
-    },
-    {
-      "role": "Estagiário de Suporte e Administração em TI",
-      "company": "Instituto de Psiquiatria Ruy Palhano (São Luís, Maranhão, Brasil)",
-      "date": "10/2021 — 03/2022 (6 meses)",
-      "bullets": [
-        "Apoiei atividades de suporte de TI e rotinas administrativas, desenvolvendo habilidades de atendimento e resolução de problemas técnicos."
+      "company": "SEAP - Secretaria de Estado de Administração Penitenciária do Maranhão",
+      "location": "São Luís, Maranhão, Brasil",
+      "date": "03/2022 — 01/2026 (3 anos e 11 meses)",
+      "roles": [
+        {
+          "role": "Desenvolvedor Java",
+          "date": "09/2023 — 01/2026 (2 anos e 5 meses)",
+          "bullets": [
+            "Projetei e desenvolvi uma API assíncrona para orquestração de entradas e saídas de internos de todas as unidades prisionais do estado do Maranhão, integrando dispositivos de biometria facial Intelbras via REST com validação em tempo real, para monitoramento em atividades operacionais para garantia de redução de pena.",
+            "Utilizei RabbitMQ como broker de mensagens, suportando alto volume de eventos simultâneos e atualizações em tempo real para dashboards operacionais e sistemas de monitoramento via WebSocket.",
+            "Migrei sistemas legados monolíticos para arquitetura de microserviços APIs REST com Spring Boot: RH (triagem, registro e delegação de acessos de servidores públicos), Almoxarifado, Help-Desk, Sistemas de odontologia, Atendimento Clínico, Atendimento Educacional, Chamador de senhas, automatizando diversos processos manuais críticos do sistema penitenciário.",
+            "Vivência em manutenção, aplicando melhorias contínuas em ambiente de produção.",
+            "Persisti logs detalhados de acesso, movimentação e auditoria, garantindo rastreabilidade completa dos eventos.",
+            "Automatizei geração de relatórios PDF com JasperReports, eliminando processos manuais recorrentes da operação.",
+            "Elevei segurança, manutenibilidade e padronização do código com análise estática contínua via SonarQube e cobertura sempre acima de 98% em testes unitários com JUnit 5.",
+            "Atuei como QA em demandas específicas, criando e executando cenários de teste para validação de regras de negócio e consistência de dados entre microserviços, otimizando tempo para alinhar com o prazo de entrega final dos projetos.",
+            "Padronizei documentação de APIs com Swagger/OpenAPI em alinhamento com os times de front-end e QA.",
+            "Utilizei Git (GitLab), Docker e CI/CD pipelines em ambiente ágil com Scrum."
+          ]
+        },
+        {
+          "role": "Estagiário de Desenvolvimento de Sistemas",
+          "date": "03/2023 — 09/2023 (7 meses)",
+          "bullets": [
+            "Realizei manutenções de otimização de código em Java identificando e corrigindo bugs em sistemas existentes, estabilizando em ambiente de homologação.",
+            "Executei e criei testes de qualidade para validação de entregas, com cobertura sempre acima de 90% em todas as Api's, desenvolvendo compreensão prática de processos de testes e QA.",
+            "Promovido a Desenvolvedor Java ao final do período de estágio, assumindo demandas de desenvolvimento em ambiente de produção."
+          ]
+        },
+        {
+          "role": "Técnico de Suporte em TI e Infraestrutura",
+          "date": "03/2022 — 07/2023 (1 ano e 5 meses)",
+          "bullets": [
+            "Realizei suporte de hardware/software, troubleshooting de rede, administração de ferramentas para manutenção de servidores e estações de trabalho, instalação de múltiplos sistemas operacionais e softwares licenciados, garantindo desempenho dos recursos de TI.",
+            "Priorizei e resolvi chamados de incidentes com atendimento presencial, telefônico e remoto, mantendo a liderança em resolução eficiente de problemas técnicos.",
+            "Desenvolvi automações em planilhas para registro de chamados, otimizando processos e reduzindo o tempo em tarefas operacionais recorrentes."
+          ]
+        }
       ]
     },
     {
@@ -130,7 +126,9 @@
       "company": "Isto E Pousada (Viana, Maranhão, Brasil)",
       "date": "12/2017 — 01/2019 (1 ano e 2 meses)",
       "bullets": [
-        "Gerenciei operações, reservas, estoque, financeiro e precificação, desenvolvendo visão de negócio e gestão de processos em pequena empresa."
+        "Respondi pela operação completa da pousada — recepção, hospedagem, check-in/check-out e ciclo de reservas —, acompanhando ocupação e receita por período.",
+        "Conduzi o financeiro e a precificação: contas a pagar e receber, fechamento de caixa, apuração de resultado e definição de diárias por sazonalidade e demanda.",
+        "Controlei estoque de insumos e frigobar vinculado ao consumo dos hóspedes e consolidei indicadores da operação — domínio de negócio que aplico hoje no SaaS de gestão hoteleira que desenvolvo."
       ]
     }
   ],
@@ -146,7 +144,7 @@
   "languages": [
     {
       "name": "Inglês",
-      "level": "Intermediário (B1)",
+      "level": "Intermediário Avançado (B2)",
       "note": "Leitura técnica e conversação"
     }
   ],
